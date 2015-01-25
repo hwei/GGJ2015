@@ -1,0 +1,7 @@
+Library
+Temp
+*.csproj
+*.sln
+*.userprefs
+*.app
+*.zip
